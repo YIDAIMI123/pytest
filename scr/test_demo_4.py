@@ -15,6 +15,6 @@ def test_mul(numbers):
 # @pytest.mark.parametrize("a,b",[(1,2),(3,4)])
 # def test_add(a,b):
 #     print(a + b)
-if __name__ == '__main__':
-    pytest.main()
+# if __name__ == '__main__':
+#     pytest.main()
 

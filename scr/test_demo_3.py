@@ -64,7 +64,7 @@ class TestLogin:
     def test_004(self):
         print("004未传入仍何fixture哦")
  
-if __name__ == '__main__':
-        pytest.main()
+# if __name__ == '__main__':
+#         pytest.main()
 
 
