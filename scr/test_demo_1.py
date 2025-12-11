@@ -1,2 +1,2 @@
 def test_abc():
-    assert 1 + 1 == 10086
+    assert 1 + 1 == 2
